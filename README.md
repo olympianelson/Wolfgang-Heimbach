@@ -27,8 +27,13 @@ In 1651 his return to Ovelgönne is documented where the following year, Heimbac
  
 In 1653, Heimbach was employed as court painter to King Friedrich III. of Denmark and Norway where he was based in Copenhagen and remained for nearly ten years until 1662–1663.
 
+After Heimbach’s return to Oldenberg, he worked again for Count Günther and other presumably local clients. In the year that Günther died, Heimbach moved between Oldenburg and Copenhagen several times. After Günther’s death, Heimbach finally left Denmark in 1667, but failed to regain the King’s favour. From 1670 until his death, he was employed for the Prince-Bishop of Münster, Christoph Bernhard von Galen. The last known painting by Heimbach is dated 1678. The year and place of his death are unknown, but it can be assumed that it was shortly after 1678.
+ 
+Heimbach was regarded by many as a talented artist, many of whom admired him for the versatility in treatment and variety of subject matter. He deals with social themes, genre painting, still life, portraiture, biblical and landscape painting, which all brought him well-paid commissions. Part of his charm as an artist was his enthusiasm to take on a variety of styles, some from older times, and his works show influence from Dutch, Italian and French models, attesting to his varied and far-reaching artistic personality. Aside from his talent as an artist, he read and wrote proficiently in multiple languages.
+
+
 <param ve-image 
-       manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
+       manifest="https://upload.wikimedia.org/wikipedia/commons/6/65/Wolfgang_Heimbach%2C_self-portrait.jpg>
 
 # Basic usage
 
@@ -41,7 +46,7 @@ dated c. 1665. Going by various names over the centuries, it became known by its
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
        license="public domain" 
-       url="https://upload.wikimedia.org/wikipedia/commons/0/0f/1665_Girl_with_a_Pearl_Earring.jpg">
+       url="https://upload.wikimedia.org/wikipedia/commons/6/65/Wolfgang_Heimbach%2C_self-portrait.jpg>
 
 ## Map
 
