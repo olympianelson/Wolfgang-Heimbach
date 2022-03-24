@@ -59,4 +59,9 @@ Others are selectable using icons displayed in the top right margin of the parag
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+Fritz, Rolf._ Wolfgang Heimbach: Hofmaler Christoph Bernhards von Galen_, Westphalen, 1962.
+Göttsche, Gertrud._ Wolfgang Heimbach, ein norddeutscher Maler des 17. Jahrhunderts._ Berlin: Deutscher Verein für Kunstwissenschaft, 1935.
+Lorenz, Angelika._ Wolfgang Heimbach Selbstbildnis_, 1660: Öl/Holz. Münster: Westfäl. Landesmuseum für Kunst u. Kulturges, 1995.
+Morsbach, Christiane. _Die Genrebilder von Wolfgang Heimbach (um 1613-nach 1678)_ Germany: Isensee, 1999.
+Oldfield, David. _German Paintings in the National Gallery of Ireland: A Complete Catalogue_. India: National Gallery of Ireland, 1987.
+
